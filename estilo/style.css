@@ -148,16 +148,10 @@ main img.pequena{
 }
 
 div.video {
-    background-color: #2E8B43;
-    margin: 0px -20px 30px -20px;
-    padding: 20px;
-
-}
-
-div.especial > iframe {
-    width: 500px;
-    margin: auto;
-
+  background-color: #4ab865;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 8%; 
 }
 
 aside {
